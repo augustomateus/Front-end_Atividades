@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Agenda</title>
+    <style>
+        /* Estilos para a tabela */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        /* Estilo para o cabeçalho */
+        thead {
+            background-color: #4CAF50; /* Cor de fundo do cabeçalho */
+            color: white; /* Cor do texto do cabeçalho */
+        }
+
+        thead th {
+            font-size: 1.5em; /* Tamanho do texto do cabeçalho */
+            padding: 10px;
+        }
+
+        /* Estilo para o conteúdo da tabela */
+        td {
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Minha Agenda da Semana</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Dia</th>
+                <th>Atividade</th>
+                <th>Horário</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Segunda-feira</td>
+                <td>Estudo de Front-end</td>
+                <td>10:00 - 12:00</td>
+            </tr>
+            <tr>
+                <td>Segunda-feira</td>
+                <td>Exercícios de JavaScript</td>
+                <td>14:00 - 16:00</td>
+            </tr>
+            <tr>
+                <td>Quarta-feira</td>
+                <td>Aula de Backend</td>
+                <td>09:00 - 11:00</td>
+            </tr>
+            <tr>
+                <td>Quarta-feira</td>
+                <td>Projeto de Portfólio</td>
+                <td>15:00 - 17:00</td>
+            </tr>
+            <tr>
+                <td>Sexta-feira</td>
+                <td>Revisão de Estudos</td>
+                <td>10:00 - 12:00</td>
+            </tr>
+            <tr>
+                <td>Sexta-feira</td>
+                <td>Networking</td>
+                <td>14:00 - 15:00</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
