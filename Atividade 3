@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>João Pessoa</title>
+<style>
+body {
+  background-color: #87CEFA; /* Azul claro */
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+h2 {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+p {
+  text-indent: 20px;
+  line-height: normal;
+  margin-top: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 300px; /* Aumentei o tamanho da imagem */
+  height: auto;
+}
+
+.container {
+  padding-top: 20px; /* Distância entre a imagem e o texto */
+}
+</style>
+</head>
+<body>
+
+<img src="https://bit.ly/3CYozcU" alt="João Pessoa">
+<div class="container">
+  <h1>João Pessoa</h1>
+  <h2>A cidade onde o sol nasce primeiro</h2>
+  <p>
+    João Pessoa, capital da Paraíba, é uma cidade encantadora conhecida por sua localização privilegiada, sendo o ponto mais oriental das Américas. Com praias de águas cristalinas, como Tambaú e Cabo Branco, e piscinas naturais em Picãozinho, é um verdadeiro paraíso para os amantes da natureza. Além disso, a cidade é uma das mais arborizadas do mundo, oferecendo um equilíbrio perfeito entre urbanização e áreas verdes, como o famoso Parque Solon de Lucena. Para os apaixonados por história, o centro histórico preserva edifícios coloniais e igrejas que contam a rica trajetória da região.
+  </p>
+  <p>
+    Um dos momentos mais especiais em João Pessoa é o pôr do sol na praia do Jacaré, onde turistas e moradores se reúnem para assistir ao espetáculo natural enquanto ouvem o som do saxofone tocando a música “Bolero de Ravel”. Essa experiência única combina a beleza do céu colorido com a cultura local, tornando-se uma atração imperdível. Apesar de ser mais conhecida por ser o lugar onde o sol nasce primeiro, o pôr do sol de João Pessoa também deixa memórias inesquecíveis para quem visita a cidade.
+  </p>
+</div>
+
+</body>
+</html>
