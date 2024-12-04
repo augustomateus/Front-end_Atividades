@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Página HTML</title>
+    <style>
+        /* Estilos para a página */
+        body {
+            background-color: #f0f8ff; /* Cor de fundo suave */
+            font-family: Arial, sans-serif;
+        }
+
+        /* Estilo para o cabeçalho */
+        h1 {
+            color: #2e8b57; /* Cor verde para o texto do cabeçalho */
+            text-align: center;
+        }
+
+        /* Estilo para o parágrafo */
+        p {
+            color: #333;
+            font-size: 1.1em;
+            text-align: center;
+            margin: 20px;
+        }
+
+        /* Estilo para a imagem */
+        .profile-image {
+            display: block;
+            margin: 0 auto;
+            width: 200px;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Quem sou eu?</h1>
+
+    <p>Olá! Sou Mateus Augusto, estudante de Análise e Desenvolvimento de Sistemas e alguém movido pela paixão por tecnologia. Sempre em busca de aprendizado, dedico boa parte do meu tempo a explorar as infinitas possibilidades que a programação oferece. Além de me especializar em Backend e Front-end, também gosto de enfrentar desafios que me impulsionem a sair da zona de conforto.
+
+Sou entusiasta do networking, pois acredito que compartilhar conhecimentos e experiências é fundamental para o crescimento profissional e pessoal. Também encontro grande satisfação em ajudar outras pessoas a alcançarem seus objetivos, seja por meio de troca de ideias ou da participação em projetos colaborativos. Nos momentos livres, procuro me manter atualizado com as inovações tecnológicas e adoro contribuir com iniciativas que promovam impacto positivo no mundo da tecnologia.</p>
+
+    <img src="https://static.dicionariodesimbolos.com.br/upload/c9/f0/aguia-3_xl.jpeg" alt="Foto de Perfil" class="profile-image">
+
+</body>
+</html>
