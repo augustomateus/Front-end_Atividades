@@ -17,10 +17,10 @@
 
         <!-- Seção de Perfil -->
         <div id="profile-info" class="card shadow-lg p-4" style="display: none;">
-            <h2 class="card-title text-center">John Doe</h2>
-            <p><strong>E-mail:</strong> johndoe@example.com</p>
-            <p><strong>Telefone:</strong> 1234-5678</p>
-            <p><strong>Endereço:</strong> Rua Exemplo, 123, São Paulo, SP</p>
+            <h2 class="card-title text-center">Mateus Augusto</h2>
+            <p><strong>E-mail:</strong> mateusaugusto031@gmail.com</p>
+            <p><strong>Telefone:</strong> 8398880-1196</p>
+            <p><strong>Endereço:</strong> Rua Neuza Meira, 219, João Pessoa, PB</p>
         </div>
     </div>
 
